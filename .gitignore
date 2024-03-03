@@ -1,1 +1,5 @@
 /.metadata/
+app01/.settings/org.eclipse.jdt.core.prefs
+app01/src/module-info.java
+app01/.settings/org.eclipse.core.resources.prefs
+app01/.project
