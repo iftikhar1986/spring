@@ -1,6 +1,7 @@
 package com.soft.test;
 
 import org.springframework.context.ApplicationContext;
+
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.soft.beans.HelloBean;
